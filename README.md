@@ -15,11 +15,11 @@
 
 \```typescript
 const developer = {
-    location: "Sri Lanka 🌍",
+    location: "Your Country 🌍",
     title: "AI-Powered Full Stack Developer",
-    role: "Founder & CEO of Lingo Startup Company and Director & Co-founder of CloudX Global (Pvt) Ltd",
+    role: "Founder & CEO @Lingo Startup Company and Director & Co-founder @CloudX Global (Pvt) Ltd",
     education: {
-        completed: "BSc (Hons) Computer Science with Industrial Placement",
+        coompleted: "BSc (Hons) Computer Science with Industrial Placement",
     },
     passions: [
         "Architecting systems & coding with AI",
