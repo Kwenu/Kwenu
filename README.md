@@ -14,7 +14,7 @@
 ## 🎯 **ABOUT ME**
 
 ```typescript
-const kalana = {
+const kisara = {
     location: "Sri Lanka 🇱🇰",
     title: "AI-Powered Full Stack Developer & Creative Designer",
     role: "Founder & CEO @Lingo Startup Company and Director & Co-founder @CloudX Global (Pvt) Ltd",
