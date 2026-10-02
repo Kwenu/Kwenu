@@ -3,7 +3,7 @@
 # 🌟 KISARA WENURAKA 🌟
 ### ✨ Lingo Startup Company | CloudX Global (Pvt) Ltd ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Creative+Developer+%26+Designer;Full+Stack+Developer+%7C;Web+Design+and+Web+Developer%7C;Web+%26+Mobile+Development+Specialist;Giving+%26+Software+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Creative+Developer+%26+Designer;Full+Stack+Developer+;Web+Design+and+Web+Developer;Web+%26+Mobile+Development+Specialist;Giving+%26+Software+Solutions)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling&fontColor=fff" width="100%"/>
 
